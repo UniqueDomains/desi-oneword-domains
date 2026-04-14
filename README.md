@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .desi one-word domains from Unique
 
 **Public extract:** 5,174 rows · **Live catalog:** 5,174 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/desi`  
 **Best for:** founders, investors, studios
 
@@ -68,9 +68,9 @@ print(df.head())
 | ISO.desi           | premium   | —         | —             | 78             | 94     | 3      | —         |
 | ally.desi          | available | $22.98    | —             | 68             | 85     | 4      | namecheap |
 | AOL.desi           | premium   | —         | —             | 76             | 85     | 3      | —         |
-| swift.desi         | available | $22.98    | —             | 68             | 85     | 5      | namecheap |
-| Nokia.desi         | premium   | —         | —             | 78             | 84     | 5      | —         |
 | sheraton.desi      | available | $22.98    | —             | 72             | 84     | 8      | namecheap |
+| Nokia.desi         | premium   | —         | —             | 78             | 84     | 5      | —         |
+| swift.desi         | available | $22.98    | —             | 68             | 84     | 5      | namecheap |
 | Americaneagle.desi | premium   | —         | —             | 66             | 60     | 14     | —         |
 | orange.desi        | available | $22.98    | —             | 88             | 83     | 6      | namecheap |
 | Kinder.desi        | premium   | —         | —             | 72             | 55     | 6      | —         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
