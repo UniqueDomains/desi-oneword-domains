@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .desi one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,406 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,406 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,406 domains · **Median ask:** $22.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/desi`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,10 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Sony.desi          | premium   | —         | —             | 86             | 67     | 4      | —         |
+| homes.desi         | available | $22.98    | —             | 86             | 34     | 5      | namecheap |
+| Fanta.desi         | premium   | —         | —             | 88             | 17     | 5      | —         |
+| movies.desi        | available | $22.98    | —             | 80             | 28     | 6      | namecheap |
 | winners.desi       | available | $22.98    | —             | 60             | 81     | 7      | namecheap |
 | RedCross.desi      | premium   | —         | —             | 71             | 95     | 9      | —         |
 | insight.desi       | available | $22.98    | —             | 76             | 69     | 8      | namecheap |
@@ -71,19 +75,15 @@ print(df.head())
 | online.desi        | available | $22.98    | —             | 70             | 62     | 7      | namecheap |
 | Siri.desi          | premium   | —         | —             | 76             | 68     | 4      | —         |
 | keepthechange.desi | available | $22.98    | —             | 46             | 59     | 15     | namecheap |
-| Sony.desi          | premium   | —         | —             | 86             | 67     | 4      | —         |
 | everything.desi    | available | $22.98    | —             | 68             | 48     | 10     | namecheap |
 | WhiteSox.desi      | premium   | —         | —             | 70             | 58     | 9      | —         |
 | whynot.desi        | available | $22.98    | —             | 74             | 39     | 7      | namecheap |
 | Ava.desi           | premium   | —         | —             | 76             | 41     | 3      | —         |
-| homes.desi         | available | $22.98    | —             | 86             | 34     | 5      | namecheap |
 | Flowers.desi       | premium   | —         | —             | 72             | 39     | 7      | —         |
 | ing.desi           | available | $22.98    | —             | 68             | 34     | 3      | namecheap |
 | Jim.desi           | premium   | —         | —             | 78             | 28     | 3      | —         |
 | etc.desi           | available | $22.98    | —             | 58             | 34     | 3      | namecheap |
 | Bets.desi          | premium   | —         | —             | 72             | 27     | 4      | —         |
-| pre.desi           | available | $22.98    | —             | 64             | 32     | 3      | namecheap |
-| Iknow.desi         | premium   | —         | —             | 58             | 26     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,406 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,406 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word .desi domains, which creates a very specific buying profile. The extension signals a South Asian or diaspora angle, so the best fits are names that stay clear, memorable, and contextually appropriate with that identity. The sample includes generic terms such as tips.desi and when.desi, geo and personal-name options like NYC.desi and Liam.desi, and also terms that raise obvious trademark concerns such as Audi.desi, Sony.desi, and Uber.desi. With a median ask of $22.98, price is accessible, but selection quality matters more than entry cost. Compare these domains on semantic fit, pronunciation, renewal comfort, and legal exposure.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Generic words usually offer broader use than surname or given-name picks
+- Geo terms like NYC.desi can suit community or local audience angles
+- Trademarked terms carry clear legal and resale risk in this set
+- Low ask price helps, but extension fit still drives long-term value
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
