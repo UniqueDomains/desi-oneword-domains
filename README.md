@@ -75,7 +75,7 @@ print(df.head())
 | online.desi        | available | $22.98    | —             | 70             | 62     | 7      | namecheap |
 | Siri.desi          | premium   | —         | —             | 76             | 68     | 4      | —         |
 | keepthechange.desi | available | $22.98    | —             | 46             | 59     | 15     | namecheap |
-| everything.desi    | available | $22.98    | —             | 68             | 48     | 10     | namecheap |
+| everything.desi    | available | $22.98    | —             | 68             | 47     | 10     | namecheap |
 | WhiteSox.desi      | premium   | —         | —             | 70             | 58     | 9      | —         |
 | whynot.desi        | available | $22.98    | —             | 74             | 39     | 7      | namecheap |
 | Ava.desi           | premium   | —         | —             | 76             | 41     | 3      | —         |
