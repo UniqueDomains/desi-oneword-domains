@@ -83,7 +83,7 @@ print(df.head())
 | ing.desi           | available | $22.98    | —             | 68             | 34     | 3      | namecheap |
 | Jim.desi           | premium   | —         | —             | 78             | 28     | 3      | —         |
 | etc.desi           | available | $22.98    | —             | 58             | 34     | 3      | namecheap |
-| Bets.desi          | premium   | —         | —             | 72             | 27     | 4      | —         |
+| CNN.desi           | premium   | —         | —             | 78             | 27     | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
