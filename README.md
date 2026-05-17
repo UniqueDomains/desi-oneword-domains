@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .desi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,464 domains · **Median ask:** $22.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/desi`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | keepthechange.desi | available | $22.98    | —             | 46             | 59     | 15     | namecheap |
 | everything.desi    | available | $22.98    | —             | 68             | 47     | 10     | namecheap |
 | WhiteSox.desi      | premium   | —         | —             | 70             | 60     | 9      | —         |
-| whynot.desi        | available | $22.98    | —             | 74             | 39     | 7      | namecheap |
+| whynot.desi        | available | $22.98    | —             | 74             | 44     | 7      | namecheap |
 | Ava.desi           | premium   | —         | —             | 76             | 42     | 3      | —         |
 | Flowers.desi       | premium   | —         | —             | 72             | 40     | 7      | —         |
 | ing.desi           | available | $22.98    | —             | 68             | 34     | 3      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
