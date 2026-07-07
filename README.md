@@ -1,10 +1,10 @@
-# Available .DESI One-Word Domains (10,466)
+# Available .DESI One-Word Domains (10,472)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C466%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C472%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .desi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,466 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,472 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,466 domains · **Median ask:** $22.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,472 domains · **Median ask:** $22.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/desi`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/desi`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DESI one-word domain 
 
 ### Files
 
-- `desi.csv` — public CSV extract (1,000 rows)
-- `desi.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `desi.csv`, public CSV extract (1,000 rows)
+- `desi.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Sony.desi          | premium   | —         | —             | 86             | 68     | 4      | —         |
-| homes.desi         | available | $22.98    | —             | 86             | 34     | 5      | namecheap |
-| Fanta.desi         | premium   | —         | —             | 88             | 17     | 5      | —         |
-| movies.desi        | available | $22.98    | —             | 80             | 28     | 6      | namecheap |
-| winners.desi       | available | $22.98    | —             | 60             | 81     | 7      | namecheap |
-| RedCross.desi      | premium   | —         | —             | 71             | 95     | 9      | —         |
-| insight.desi       | available | $22.98    | —             | 76             | 69     | 8      | namecheap |
-| NewZealand.desi    | premium   | —         | —             | 78             | 94     | 11     | —         |
-| online.desi        | available | $22.98    | —             | 70             | 62     | 7      | namecheap |
-| Siri.desi          | premium   | —         | —             | 76             | 70     | 4      | —         |
-| keepthechange.desi | available | $22.98    | —             | 46             | 59     | 15     | namecheap |
-| everything.desi    | available | $22.98    | —             | 68             | 47     | 10     | namecheap |
-| WhiteSox.desi      | premium   | —         | —             | 70             | 60     | 9      | —         |
-| whynot.desi        | available | $22.98    | —             | 74             | 44     | 7      | namecheap |
-| Ava.desi           | premium   | —         | —             | 76             | 42     | 3      | —         |
-| Flowers.desi       | premium   | —         | —             | 72             | 40     | 7      | —         |
-| ing.desi           | available | $22.98    | —             | 68             | 34     | 3      | namecheap |
-| Bets.desi          | premium   | —         | —             | 72             | 34     | 4      | —         |
-| etc.desi           | available | $22.98    | —             | 58             | 32     | 3      | namecheap |
-| Jim.desi           | premium   | —         | —             | 78             | 28     | 3      | —         |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ace.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| add.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| arm.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| art.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| bar.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bed.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bow.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| boy.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| cat.desi | available | $22.98    | —             | high           | high   | 3      | namecheap |
+| ear.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| egg.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| end.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| few.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| gag.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| gay.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| ill.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| led.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| les.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| let.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| lie.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,466 live domains                        |
+| 1,000-row public sample | 10,472 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .desi domains, which creates a very specific buying profile. The extension signals a South Asian or diaspora angle, so the best fits are names that stay clear, memorable, and contextually appropriate with that identity. The sample includes generic terms such as tips.desi and when.desi, geo and personal-name options like NYC.desi and Liam.desi, and also terms that raise obvious trademark concerns such as Audi.desi, Sony.desi, and Uber.desi. With a median ask of $22.98, price is accessible, but selection quality matters more than entry cost. Compare these domains on semantic fit, pronunciation, renewal comfort, and legal exposure.
+This list of one-word .desi domains blends pop-culture references, everyday nouns, and descriptive terms — from WonderWoman.desi and jetpack.desi to policymaker.desi and edamame.desi. With a median ask near $23 across 10,472 domains, the .desi extension offers a low-cost entry point for testing brand names or building a regional niche presence. Pricing and renewal costs vary by registrar, so compare each name's ask price and renewal terms before committing to one-word .desi domains that fit a shortlist or a deal thesis.
 
-- Generic words usually offer broader use than surname or given-name picks
-- Geo terms like NYC.desi can suit community or local audience angles
-- Trademarked terms carry clear legal and resale risk in this set
-- Low ask price helps, but extension fit still drives long-term value
+- 10,472 one-word .desi domains, median ask near $23
+- Brandable names spanning pop culture, food, and everyday nouns
+- Short, memorable one-word format across every listing
+- Ask price shown — confirm renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
