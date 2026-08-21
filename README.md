@@ -75,7 +75,7 @@ print(df.head())
 | cat.desi | available | $22.98    | —             | high           | high   | 3      | namecheap |
 | ear.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
 | egg.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| end.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| end.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
 | few.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
 | gag.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
 | gay.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
