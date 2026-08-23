@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .desi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,686 domains · **Median ask:** $21.65 · **High-demand under $2,500:** 70
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/desi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ace.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
-| add.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| arm.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
-| art.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
-| bar.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| bed.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| bow.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| boy.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
-| cat.desi | available | $22.98    | —             | high           | high   | 3      | namecheap |
-| ear.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| egg.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| end.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
-| few.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| gag.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| gay.desi | available | $22.98    | —             | high           | medium | 3      | namecheap |
-| ill.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
-| led.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| les.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
-| let.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| lie.desi | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| equal.desi    | available | $22.98    | —             | high           | low    | 5      | namecheap |
+| negative.desi | available | $22.98    | —             | high           | low    | 8      | namecheap |
+| warm.desi     | available | $22.98    | —             | high           | low    | 4      | namecheap |
+| advance.desi  | available | $22.98    | —             | high           | low    | 7      | namecheap |
+| custom.desi   | available | $22.98    | —             | high           | low    | 6      | namecheap |
+| ace.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| add.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| arm.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| art.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| bar.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bed.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bow.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| boy.desi      | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| cat.desi      | available | $22.98    | —             | high           | high   | 3      | namecheap |
+| ear.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| egg.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| end.desi      | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
+| few.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| gag.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| gay.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
