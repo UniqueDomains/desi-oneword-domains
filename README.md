@@ -1,10 +1,10 @@
-# Available .DESI One-Word Domains (33,610)
+# Available .DESI One-Word Domains (15,301)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C610%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C301%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .desi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,610 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,301 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,610 domains · **Median ask:** $20.63 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 15,301 domains · **Median ask:** $20.68 · **High-demand under $2,500:** 73
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/desi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| power.desi      | available | $19.98    | $22.98        | high           | medium | 5      | namecheap |
-| style.desi      | available | $19.98    | $22.98        | high           | low    | 5      | namecheap |
-| safety.desi     | available | $19.98    | $22.98        | high           | low    | 6      | namecheap |
-| organic.desi    | available | $19.98    | $22.98        | high           | low    | 7      | namecheap |
-| trip.desi       | available | $19.98    | $22.98        | high           | low    | 4      | namecheap |
-| personal.desi   | available | $19.98    | $22.98        | high           | low    | 8      | namecheap |
-| coordinate.desi | available | $19.98    | $22.98        | high           | low    | 10     | namecheap |
-| influence.desi  | available | $19.98    | $22.98        | high           | low    | 9      | namecheap |
-| seafood.desi    | available | $19.98    | $22.98        | high           | low    | 7      | namecheap |
-| drink.desi      | available | $19.98    | $22.98        | high           | low    | 5      | namecheap |
-| add.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| aid.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| ala.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| arm.desi        | available | $22.98    | —             | high           | medium | 3      | namecheap |
-| axe.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| bar.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| bed.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| boy.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| btw.desi        | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| cat.desi        | available | $22.98    | —             | high           | high   | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| local.desi    | available | $19.98    | $22.98        | high           | medium | 5      | namecheap |
+| fun.desi      | available | $19.98    | $22.98        | high           | medium | 3      | namecheap |
+| normal.desi   | available | $19.98    | $22.98        | high           | high   | 6      | namecheap |
+| guess.desi    | available | $19.98    | $22.98        | high           | high   | 5      | namecheap |
+| power.desi    | available | $19.98    | $22.98        | high           | medium | 5      | namecheap |
+| language.desi | available | $19.98    | $22.98        | high           | low    | 8      | namecheap |
+| original.desi | available | $22.98    | —             | high           | low    | 8      | namecheap |
+| video.desi    | available | $19.98    | $22.98        | high           | medium | 5      | namecheap |
+| style.desi    | available | $19.98    | $22.98        | high           | low    | 5      | namecheap |
+| real.desi     | available | $19.98    | $22.98        | high           | medium | 4      | namecheap |
+| safety.desi   | available | $19.98    | $22.98        | high           | low    | 6      | namecheap |
+| along.desi    | available | $19.98    | $22.98        | high           | high   | 5      | namecheap |
+| organic.desi  | available | $19.98    | $22.98        | high           | low    | 7      | namecheap |
+| add.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| aid.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| ala.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| arm.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| axe.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bar.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| bed.desi      | available | $22.98    | —             | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,610 live domains                        |
+| 1,000-row public sample | 15,301 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 73 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
