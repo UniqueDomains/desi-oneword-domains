@@ -1,10 +1,10 @@
-# Available .DESI One-Word Domains (25,437)
+# Available .DESI One-Word Domains (26,165)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C437%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C165%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .desi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,437 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,165 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,437 domains · **Median ask:** $20.27 · **High-demand under $2,500:** 134
+**Public extract:** 1,000 rows · **Live catalog:** 26,165 domains · **Median ask:** $20.16 · **High-demand under $2,500:** 143
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/desi`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | aft.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | als.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | asl.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
-| bjs.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
+| bjs.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | cbs.desi | available | $19.98    | $22.98        | high           | medium | 3      | namecheap |
 | cdc.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | cfr.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
-| doi.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
+| ent.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | fan.desi | available | $19.98    | $22.98        | high           | medium | 3      | namecheap |
 | few.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | gis.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
-| hay.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | het.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
 | hex.desi | available | $19.98    | $22.98        | high           | medium | 3      | namecheap |
 | ing.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
-| llb.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
+| isi.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
+| llb.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 | los.desi | available | $22.98    | —             | high           | low    | 3      | namecheap |
 | lxv.desi | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap |
-| oft.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
+| mak.desi | available | $19.98    | $22.98        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,437 live domains                        |
+| 1,000-row public sample | 26,165 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 134 high-demand names under $2,500         |
+| Basic exported fields   | 143 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESI One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
