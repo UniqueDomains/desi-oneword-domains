@@ -9,7 +9,6 @@ a9cc65b7-bf0d-44e0-84cb-e140d53d804e,tung.desi,available,19.98,22.98,medium,low,
 c54d3281-c8d3-408a-879a-350f99ba3e49,spitting.desi,available,19.98,22.98,medium,low,8,namecheap,,,29/09/2026 08:06
 fb106a6e-548c-4ee9-8268-34e4f12fa88a,leafless.desi,available,19.98,22.98,medium,low,8,namecheap,,,22/08/2026 21:56
 5af114c4-7f3a-4154-b31a-aa31c74c8850,atonality.desi,available,19.98,22.98,high,low,9,namecheap,,,21/09/2026 00:25
-5fd411b6-5c62-4fc6-9f90-3b8f6c82f329,eddie.desi,available,22.98,,high,low,5,namecheap,,,
 9ea03ccb-5c6b-4d56-9969-91ebe405d4f7,saporous.desi,available,19.98,22.98,medium,low,8,namecheap,,,18/08/2026 07:16
 e6034934-de6f-4cc6-b0f6-6201e1427de2,abydos.desi,available,19.98,22.98,medium,low,6,namecheap,,,16/09/2026 19:41
 80b59800-790f-4b87-bd44-7ab48a1f1caa,joyfully.desi,available,19.98,22.98,high,low,8,namecheap,,,14/09/2026 21:32
@@ -22,7 +21,6 @@ b9718ae6-a19f-4c42-af66-8c903e0f28cf,elliptic.desi,available,19.98,22.98,high,lo
 8712bab1-46e3-46e2-8b1d-0d5868c99217,forbidding.desi,available,19.98,22.98,medium,low,10,namecheap,,,18/08/2026 11:08
 6d2476e5-133b-4c15-8029-75f617586685,offline.desi,available,19.98,22.98,high,medium,8,namecheap,,,04/09/2026 01:13
 f2567595-4a0b-4a76-ad9b-c6fafa3b781e,vulvar.desi,available,19.98,22.98,medium,low,6,namecheap,,,13/09/2026 07:29
-286f5276-b26f-4c59-929a-bd01c26a15b7,utilizing.desi,available,19.98,22.98,medium,low,9,namecheap,,,28/09/2026 07:08
 e1d23d4e-efad-458a-9735-41917471b2ae,undogmatic.desi,available,19.98,22.98,medium,low,10,namecheap,,,18/08/2026 14:50
 d40af9a2-43f2-4971-95f2-9fd39a4e07ea,artiste.desi,available,19.98,22.98,high,low,7,namecheap,,,20/09/2026 11:55
 e0dae00f-078d-42af-8a00-ee8a13f70f71,unrealized.desi,available,19.98,22.98,medium,low,10,namecheap,,,12/09/2026 11:00
@@ -41,7 +39,6 @@ cd02a12e-73b4-441f-9bcb-9da1cba666e0,blasphemy.desi,available,19.98,22.98,medium
 c1fb855d-4009-4722-84f9-381481503c9f,planetal.desi,available,19.98,22.98,medium,low,8,namecheap,,,08/09/2026 20:42
 15f920c8-0359-47af-8d35-05f199156eb9,midi.desi,available,19.98,22.98,high,low,4,namecheap,,,24/08/2026 22:34
 bfea33c2-ab59-463d-bcb1-ae1361b74a0e,rituals.desi,available,19.98,22.98,medium,low,7,namecheap,,,29/09/2026 05:40
-18d7527c-a751-4259-9436-ba50e9c8cf4e,fallout.desi,available,19.98,22.98,medium,low,7,namecheap,,,28/09/2026 19:11
 9a663725-1438-4474-8d75-fe3f3c7260de,bootlicker.desi,available,19.98,22.98,medium,low,10,namecheap,,,19/09/2026 21:12
 db55857d-4876-47c3-a5dc-77fce3969063,dummy.desi,available,19.98,22.98,high,low,5,namecheap,,,24/09/2026 12:20
 e2875ffc-863c-4148-b6e2-cd1eb5bd3ffc,smartest.desi,available,19.98,22.98,high,low,8,namecheap,,,20/09/2026 22:26
@@ -49,11 +46,13 @@ def421c9-e0ce-4ee2-9562-e763428d5a46,edental.desi,available,19.98,22.98,medium,l
 01d0061c-ebbc-4c67-9392-f66d77a83d1f,mellon.desi,available,19.98,22.98,high,low,6,namecheap,,,19/09/2026 04:48
 e5a0d6f2-0684-4fc1-954f-a38b72186a35,jealousy.desi,available,19.98,22.98,medium,low,8,namecheap,,,28/09/2026 09:57
 fdc3cf43-7309-42fd-8cb4-eb8a03f958fe,previous.desi,available,19.98,22.98,high,low,8,namecheap,,,01/10/2026 02:56
+8f09a344-c718-48b7-a234-3ce439c34723,slows.desi,available,19.98,22.98,medium,low,5,namecheap,,,02/10/2026 02:13
 fad203b0-03c2-422c-9ba4-96fb519f95a6,moses.desi,available,19.98,22.98,high,low,5,namecheap,,,19/09/2026 10:00
 b802ad78-4b7b-4be0-84e9-86fa8ee273bf,laboured.desi,available,19.98,22.98,medium,low,8,namecheap,,,22/08/2026 17:40
 5186893c-79b8-4a30-88f9-d277e69194b5,puzzled.desi,available,19.98,22.98,high,low,7,namecheap,,,07/08/2026 10:53
 fe8199d1-f310-406b-ba72-2da16806360a,depressed.desi,available,19.98,22.98,medium,low,9,namecheap,,,14/08/2026 02:43
 61e0f6bc-b3ce-4ee0-a446-ee5385e3e83f,tara.desi,available,19.98,22.98,high,low,4,namecheap,,,28/09/2026 15:26
+b68173c0-c86d-4ced-aa6b-c4b199a47997,pth.desi,available,19.98,22.98,high,low,3,namecheap,,,01/10/2026 06:57
 924609d7-8050-4f0f-881d-d69294c7ffd9,heller.desi,available,19.98,22.98,medium,low,6,namecheap,,,28/09/2026 09:59
 e8e5ffab-e192-45ca-a5f4-491e5acf80ee,vicarious.desi,available,19.98,22.98,medium,low,9,namecheap,,,13/09/2026 05:15
 fdbd1c8a-1801-4628-bd90-636621f56300,furnace.desi,available,19.98,22.98,high,low,7,namecheap,,,28/09/2026 19:17
@@ -72,6 +71,7 @@ f588d336-571b-4ba4-93d9-da2617769746,trackable.desi,available,19.98,22.98,high,l
 89c4c7b0-ef93-40d5-863f-10fd8a9667dd,coronary.desi,available,19.98,22.98,high,low,8,namecheap,,,13/08/2026 01:44
 ba8f221e-0978-47f8-9d19-ee6d66520bc7,gangster.desi,available,19.98,22.98,medium,low,8,namecheap,,,28/09/2026 09:51
 e5e7a9c2-921b-4d77-a580-09d5973fe26a,misery.desi,available,19.98,22.98,medium,low,6,namecheap,,,27/09/2026 04:46
+2ae82c26-fbf0-4af8-9192-e49a5a248177,storage.desi,available,19.98,22.98,high,medium,7,namecheap,,,01/10/2026 14:27
 041bf5de-99c5-4f04-bb28-29bb9d53910b,delete.desi,available,19.98,22.98,high,low,6,namecheap,,,29/09/2026 14:11
 a18d1923-5d08-43f7-914b-4517dd48ee34,asthmatic.desi,available,19.98,22.98,medium,low,9,namecheap,,,22/09/2026 10:23
 4200557c-bb83-4a2a-af54-8aad96d0a535,luxe.desi,available,,,high,low,4,,,,13/08/2026 19:13
@@ -88,7 +88,7 @@ cc513004-fdf3-4632-9fbc-d5a79ef8f3e6,neighbor.desi,available,19.98,22.98,high,lo
 22d7b2f5-0f80-4d82-9a53-1829c9a2dedd,argosy.desi,available,19.98,22.98,medium,low,6,namecheap,,,20/09/2026 04:43
 ee116b4e-4228-4b83-b137-99ef05561b12,consequent.desi,available,19.98,22.98,high,low,10,namecheap,,,
 9d076f48-c8f7-4692-a5b8-899a66f647c8,slue.desi,available,19.98,22.98,high,medium,4,namecheap,,,10/09/2026 06:20
-aa8987fb-455a-4ae3-8567-ae0d32886fb3,lunchtime.desi,available,22.98,,high,low,10,namecheap,,,
+aa8987fb-455a-4ae3-8567-ae0d32886fb3,lunchtime.desi,available,19.98,22.98,high,low,10,namecheap,,,01/10/2026 20:24
 6846950e-88b4-4820-b51a-8ed53d4a18b0,bellman.desi,available,19.98,22.98,medium,low,7,namecheap,,,23/09/2026 06:01
 42c44e51-4826-4c61-a667-116935e3f971,socially.desi,available,19.98,22.98,high,low,8,namecheap,,,16/09/2026 03:57
 31851c09-94c3-4bbb-bc60-94a45be4cd18,ornate.desi,available,19.98,22.98,high,low,6,namecheap,,,04/09/2026 17:59
@@ -133,19 +133,21 @@ ffb67ba8-cc16-404e-a315-b200397c707a,pepper.desi,available,19.98,22.98,high,low,
 70a73a6d-c5d8-4d59-9e32-e26c1cb7172f,homeward.desi,available,19.98,22.98,high,low,8,namecheap,,,21/08/2026 11:22
 adc45deb-4692-45e0-9890-cbd73ab44c9f,chary.desi,available,19.98,22.98,medium,low,5,namecheap,,,12/08/2026 02:59
 a62e7613-e293-4e85-8191-396d54503d9a,vogel.desi,available,19.98,22.98,high,low,5,namecheap,,,28/09/2026 04:48
-883f0afc-5cdd-46de-84ef-a6bc8fa4ae4b,equipment.desi,available,19.98,22.98,high,low,9,namecheap,,,29/09/2026 19:32
+883f0afc-5cdd-46de-84ef-a6bc8fa4ae4b,equipment.desi,available,19.98,22.98,high,low,9,namecheap,,,01/10/2026 12:31
 2747c896-3ed3-4f23-ab63-4f052400e58d,bovid.desi,available,19.98,22.98,high,medium,5,namecheap,,,10/08/2026 22:56
 b817231d-1760-44d5-b608-78b3ad8d0059,opposed.desi,available,19.98,22.98,high,low,7,namecheap,,,04/09/2026 16:45
 820cd550-e024-40da-9605-897d829fe43b,loan.desi,available,19.98,22.98,high,low,4,namecheap,,,25/09/2026 09:02
 497e852f-019d-45ca-8fe8-af7a362bc49a,felicity.desi,available,19.98,22.98,high,low,8,namecheap,,,29/09/2026 12:15
 1b5d68c0-a12f-401a-b47f-9eea5d52ce02,sawtooth.desi,available,22.98,,medium,low,9,namecheap,,,
 91b79277-e20b-4a62-b732-16844d5741c3,psc.desi,available,19.98,22.98,high,low,3,namecheap,,,29/09/2026 22:26
-98bccec7-bb48-4513-b24d-54547742b21e,snapping.desi,available,22.98,,high,low,8,namecheap,,,
+98bccec7-bb48-4513-b24d-54547742b21e,snapping.desi,available,19.98,22.98,high,low,8,namecheap,,,01/10/2026 23:49
 ed7b8a53-4977-4591-bfe8-7cb6b0600016,telescoped.desi,available,19.98,22.98,medium,low,10,namecheap,,,11/09/2026 10:22
 bb34b5a0-d804-483e-a25d-761994569970,altoona.desi,available,19.98,22.98,medium,low,7,namecheap,,,18/09/2026 15:04
 6ec75898-c4f9-4314-b3b4-c3d7f8ad582b,humorless.desi,available,19.98,22.98,medium,low,9,namecheap,,,21/08/2026 15:23
 eeb33104-ac1d-44d4-8ace-3f1369ab7a50,allergenic.desi,available,19.98,22.98,medium,low,10,namecheap,,,
 428822bb-4636-4c91-9179-f807fc1a009c,catenate.desi,available,19.98,22.98,high,low,8,namecheap,,,11/08/2026 21:39
+879dd1a4-e743-4095-a63f-3faa87eea9c9,braithwaite.desi,available,19.98,22.98,medium,low,11,namecheap,,,02/10/2026 00:44
+6e132669-638b-4da6-b6cd-35307ca22582,display.desi,available,19.98,22.98,high,low,7,namecheap,,,01/10/2026 21:16
 f0db4241-d15a-4530-bddc-d00176f9b1c8,frustrate.desi,available,19.98,22.98,medium,low,9,namecheap,,,24/09/2026 12:25
 4ea68fa1-3dc5-48c7-b85c-5c784ba8943f,sarcasm.desi,available,19.98,22.98,high,low,7,namecheap,,,24/09/2026 13:16
 8aa52fd1-388b-405e-a987-45107844a143,appraisals.desi,available,19.98,22.98,medium,low,10,namecheap,,,08/09/2026 07:32
@@ -164,6 +166,7 @@ ce77585a-6bfd-4b92-950b-88973c98cf23,watered.desi,available,19.98,22.98,medium,l
 00df712f-c9f0-4fa4-9543-44ac67017ee7,streamer.desi,available,19.98,22.98,high,low,8,namecheap,,,08/08/2026 13:57
 d79b13b3-c4e0-40a9-9d72-fe1b6901903a,impolite.desi,available,19.98,22.98,medium,low,8,namecheap,,,21/08/2026 22:43
 228a300f-1eb1-4f69-be31-3ad2c67e65a1,dualistic.desi,available,19.98,22.98,medium,low,9,namecheap,,,14/08/2026 20:40
+043f800a-1739-4f50-878f-0141189c5b8d,marat.desi,available,19.98,22.98,high,low,5,namecheap,,,02/10/2026 05:28
 79036fbd-17f9-48ec-9078-304816d3f4b1,guangdong.desi,available,19.98,22.98,medium,low,9,namecheap,,,28/09/2026 09:58
 032fffb6-66e8-48f0-8b6d-a5ea858ae139,precise.desi,available,19.98,22.98,high,low,7,namecheap,,,27/09/2026 04:53
 9134a9c1-5165-45b2-a88e-a80e3319771e,hangar.desi,available,19.98,22.98,high,low,6,namecheap,,,17/09/2026 23:05
@@ -175,6 +178,7 @@ d3311544-43ae-403f-8018-98fbb9c0a1f1,namibian.desi,available,19.98,22.98,high,lo
 9382e2b4-9a0b-466f-89c4-b32b33167d38,anastrophe.desi,available,19.98,22.98,medium,low,10,namecheap,,,19/09/2026 03:23
 3a3efa17-91c5-4882-8beb-61c5f040c79f,evasion.desi,available,19.98,22.98,high,low,7,namecheap,,,29/09/2026 18:40
 e83bbf4a-4b7e-49db-9ec1-aad1aec5aafd,offerings.desi,available,19.98,22.98,medium,low,9,namecheap,,,18/09/2026 10:39
+a82c4353-af07-4852-97f0-d58f614d4c68,pulses.desi,available,19.98,22.98,medium,low,6,namecheap,,,01/10/2026 17:55
 83421953-359b-4744-9aa6-774aa9289c63,mckenna.desi,available,19.98,22.98,high,low,7,namecheap,,,27/09/2026 19:59
 f4ac4fc5-7b3c-415e-9692-f32292bfbb24,affirmable.desi,available,19.98,22.98,medium,low,10,namecheap,,,
 e825dc98-c11e-4dc8-bb9c-cba798173831,steamy.desi,available,19.98,22.98,medium,low,6,namecheap,,,21/08/2026 14:12
@@ -187,9 +191,11 @@ cb86366f-a8b4-4370-9231-5a5162b05e50,nonsmoking.desi,available,19.98,22.98,mediu
 c19da385-a2f2-41f0-aa91-723a41c417b0,inflexibly.desi,available,19.98,22.98,medium,low,10,namecheap,,,15/09/2026 08:16
 5d5817a8-e588-48f8-9831-1131a78168b2,eusebius.desi,available,19.98,22.98,medium,low,8,namecheap,,,29/09/2026 06:49
 7a33806a-44b9-4038-91c8-8f6bf29e1cbf,agent.desi,available,19.98,22.98,high,medium,5,namecheap,,,17/09/2026 17:11
+2cd389f2-ed1f-48fa-b2c2-087dbc9ce39e,philippa.desi,available,19.98,22.98,high,low,8,namecheap,,,01/10/2026 08:16
 dca0cb97-2025-461e-a486-b9efc3f0e718,unworldly.desi,available,19.98,22.98,medium,low,9,namecheap,,,12/09/2026 20:18
 dc0ac1ba-b2ef-4392-acf6-aeea3f5f599b,fashioned.desi,available,19.98,22.98,high,low,9,namecheap,,,17/08/2026 23:02
 8cba0c83-6a51-4478-ace4-9ac4ad796ab3,stephenson.desi,available,19.98,22.98,medium,low,10,namecheap,,,25/09/2026 06:30
+ba5a0e9f-653d-4733-b39a-584fbb9e3bfc,godmother.desi,available,19.98,22.98,high,low,9,namecheap,,,01/10/2026 19:50
 e8124bca-5b3f-412f-87b4-9cdb7c352b19,flavourful.desi,available,19.98,22.98,high,low,10,namecheap,,,18/08/2026 07:06
 95c3b598-2f60-4b40-a667-9b787426307f,discordant.desi,available,19.98,22.98,medium,low,10,namecheap,,,14/08/2026 10:00
 32788083-a131-4c5b-9fdd-704761cedbbb,belatedly.desi,available,19.98,22.98,medium,low,9,namecheap,,,22/08/2026 20:25
@@ -208,7 +214,7 @@ a1feed17-42f4-4660-bf92-8fc820c7a598,profundity.desi,available,19.98,22.98,mediu
 709f8a96-2675-4c4a-9192-f1ae15bc3601,scanty.desi,available,19.98,22.98,medium,low,6,namecheap,,,09/09/2026 22:38
 3ea23711-a04d-4eea-a69a-2729dfd23971,stalwart.desi,available,19.98,22.98,high,low,8,namecheap,,,21/08/2026 00:53
 8e978f26-0432-489b-8991-4797daab950c,climatic.desi,available,19.98,22.98,high,low,8,namecheap,,,12/08/2026 10:57
-30931a42-a71c-474a-8a1a-6282e5490a02,blades.desi,available,22.98,,high,low,6,namecheap,,,
+30931a42-a71c-474a-8a1a-6282e5490a02,blades.desi,available,19.98,22.98,high,low,6,namecheap,,,02/10/2026 06:19
 b2464d93-b6a8-4971-b4b0-2f24867b5508,westbury.desi,available,19.98,22.98,high,low,8,namecheap,,,30/09/2026 05:55
 78a5fcab-aa43-4351-a15d-4abc4d5dd90b,orton.desi,available,19.98,22.98,medium,low,5,namecheap,,,28/09/2026 08:09
 ebb31099-c180-4825-8473-52b64cfe285c,newcastle.desi,available,19.98,22.98,high,low,9,namecheap,,,30/09/2026 10:35
@@ -227,7 +233,6 @@ d6a6e9f2-caaf-4019-b1ed-74bafbb2fbd0,unsheared.desi,available,19.98,22.98,low,lo
 a5ff9ab4-f0ab-4e1b-9f27-4b67a633c868,maguey.desi,available,19.98,22.98,medium,low,6,namecheap,,,17/09/2026 16:37
 b60c59e2-cbda-4d2c-81ff-9def42dfac58,unframed.desi,available,19.98,22.98,medium,low,8,namecheap,,,12/09/2026 10:41
 c15dd1a9-a216-4ce1-babc-b286f58600a2,joplin.desi,available,19.98,22.98,medium,low,6,namecheap,,,28/09/2026 19:32
-0f2c7d21-3366-4ad8-be0c-4e61ed447569,congrats.desi,available,22.98,,high,low,8,namecheap,,,
 51cf875c-81ad-4334-9064-655973355ef7,himmler.desi,available,19.98,22.98,medium,low,7,namecheap,,,29/09/2026 13:01
 cbcf8580-f1fd-4630-b0e9-bd13d8c90186,cosmologic.desi,available,19.98,22.98,medium,low,10,namecheap,,,13/08/2026 02:56
 c7ae1a22-ec54-4a22-8585-e5c1733c83a7,cologne.desi,available,19.98,22.98,high,low,7,namecheap,,,24/09/2026 16:20
@@ -245,7 +250,6 @@ c3cf9372-81d9-4ec4-93c4-2d67bf13e876,cellini.desi,available,19.98,22.98,medium,l
 c7fb313d-94df-4fb4-9042-cc63e661947e,private.desi,available,19.98,22.98,high,medium,7,namecheap,,,27/09/2026 06:15
 55e4299b-93ef-45f2-907b-e5f1c92233e1,bloomington.desi,available,19.98,22.98,medium,low,11,namecheap,,,27/09/2026 08:15
 7c084dce-f0ed-4592-a00a-84ca503e480a,tommy.desi,available,19.98,22.98,high,medium,5,namecheap,,,25/09/2026 11:48
-b05ada8e-9c68-4bee-8135-0849fe179132,xoxoxo.desi,available,22.98,,high,low,6,namecheap,,,
 62e50562-2915-40d2-81cc-3b4b1ab5f21e,replying.desi,available,19.98,22.98,medium,low,8,namecheap,,,18/09/2026 12:55
 4a14723c-1cb4-4650-899f-3271b6858ab9,gaol.desi,available,19.98,22.98,medium,low,4,namecheap,,,08/09/2026 22:46
 a934ae35-d353-4b75-8a65-7d58bae199cb,mobility.desi,available,19.98,22.98,high,low,8,namecheap,,,29/09/2026 19:41
@@ -274,14 +278,16 @@ bd7e3ab8-3025-4477-8073-ad5ba1384cdd,louis.desi,available,19.98,22.98,high,low,5
 1cd1bd89-3579-4347-b68e-b8e483d10c75,escort.desi,available,19.98,22.98,high,low,6,namecheap,,,24/09/2026 06:34
 40260a46-d786-4356-8946-22c828443b4b,mcintosh.desi,available,19.98,22.98,high,low,8,namecheap,,,27/09/2026 04:44
 1c1ad424-e241-4af2-9b21-17ab7efabe5a,realised.desi,available,19.98,22.98,high,low,8,namecheap,,,23/09/2026 17:33
+e507e900-6647-45b5-b588-39d19a68dce3,colonization.desi,available,19.98,22.98,high,low,12,namecheap,,,02/10/2026 01:18
+dacad102-971f-48c7-9541-4c1ed9d34f17,germaine.desi,available,19.98,22.98,medium,low,8,namecheap,,,01/10/2026 08:33
 0b6333af-18b5-42e1-88dc-364fb93f9c89,tehran.desi,available,19.98,22.98,high,low,6,namecheap,,,25/09/2026 22:03
 5ef901b4-35c4-49d7-800f-adc35c95673f,unite.desi,available,19.98,22.98,high,low,5,namecheap,,,24/09/2026 16:23
 af26f5c7-1579-4cc3-9d07-83320465efe6,explanation.desi,available,22.98,,high,low,11,namecheap,,,
 1d7f59ca-654e-49f0-af21-6ce944c24bf2,italic.desi,available,19.98,22.98,high,low,6,namecheap,,,22/08/2026 11:37
 a86af62c-47e6-46f1-bee0-2049a7f7e908,descendants.desi,available,19.98,22.98,high,low,11,namecheap,,,30/09/2026 22:55
 3fb3a76d-e619-463f-b103-d4c98a33c43e,congenital.desi,available,19.98,22.98,high,low,10,namecheap,,,12/08/2026 21:40
-992132eb-8c1b-4450-b3e2-95b29791083e,dave.desi,available,22.98,,high,low,4,namecheap,,,
 18f5213c-5eb4-4283-b9f5-799dc81080c5,ocular.desi,available,19.98,22.98,high,low,6,namecheap,,,04/09/2026 00:41
+948e3948-05dc-4e6b-91cd-0192234bea0c,combs.desi,available,19.98,22.98,high,low,5,namecheap,,,02/10/2026 00:48
 c1151e77-ebf1-4e7d-8d28-16f4a7401499,meredith.desi,available,19.98,22.98,high,low,8,namecheap,,,25/09/2026 06:29
 a952c37b-245d-4faa-9913-b15031e608ae,adonis.desi,available,19.98,22.98,high,high,6,namecheap,,,17/09/2026 09:38
 a748a63b-86d4-41c2-ac74-5f937e93ca14,hiss.desi,available,19.98,22.98,medium,low,4,namecheap,,,24/09/2026 06:41
@@ -309,7 +315,6 @@ edb14ab3-3176-47ed-b526-ce3e838fcb58,thermic.desi,available,19.98,22.98,medium,l
 2bf7c75c-0fa0-4905-bac7-6e6e99d867f7,admirer.desi,available,19.98,22.98,high,low,7,namecheap,,,17/09/2026 08:56
 0ada9526-74f2-42a8-91bf-35db698bb60c,qualified.desi,available,19.98,22.98,high,low,9,namecheap,,,14/08/2026 02:10
 3fb4a332-ac6e-4773-9cb1-564e7b155a22,robertson.desi,available,19.98,22.98,high,low,9,namecheap,,,25/09/2026 09:45
-b356de21-6b40-4490-b451-ca987e5b1f7a,franks.desi,available,22.98,,high,low,6,namecheap,,,
 9a773edf-f9d5-4c9d-a916-b8beef53b22f,wealthy.desi,available,19.98,22.98,high,low,7,namecheap,,,21/09/2026 21:57
 48780a90-d91a-49a8-a493-3fd4f83ef28d,partizan.desi,available,19.98,22.98,high,low,8,namecheap,,,08/09/2026 02:09
 6827863f-f05e-4496-bd6e-555c8d68a7cf,troglodyte.desi,available,19.98,22.98,medium,low,10,namecheap,,,09/09/2026 11:43
@@ -326,6 +331,7 @@ a35d545d-769b-4edc-957d-ef03505ef3e9,chunks.desi,available,19.98,22.98,medium,lo
 dbb11329-0b0b-4903-a387-7c1d05bd5d3c,predacious.desi,available,19.98,22.98,high,medium,10,namecheap,,,09/09/2026 01:21
 1bd86276-ec28-4f42-8865-31e653792973,strung.desi,available,19.98,22.98,medium,low,6,namecheap,,,10/09/2026 22:54
 39f74e27-1c9d-4ffd-afb7-7c10aa78b6bf,centennial.desi,available,19.98,22.98,high,low,10,namecheap,,,11/08/2026 23:53
+ea6c0688-2203-452b-9a4d-a1383a231f47,leicester.desi,available,19.98,22.98,high,low,9,namecheap,,,02/10/2026 05:35
 b5d6103f-24d3-4447-a58e-5a54b5c59047,atheist.desi,available,19.98,22.98,medium,low,7,namecheap,,,22/09/2026 10:58
 48ab301a-fb58-41c5-a5fd-806e82c8dd41,port.desi,available,19.98,22.98,high,low,4,namecheap,,,25/09/2026 13:07
 8bec7c17-ee29-4d54-970d-a4174d754c6d,apoplexy.desi,available,19.98,22.98,medium,low,8,namecheap,,,19/09/2026 19:09
@@ -351,6 +357,7 @@ a0b3d35b-13e1-413a-a878-974d7ad70a91,altace.desi,available,19.98,22.98,medium,lo
 8550686c-1e59-4c1d-aed4-9e60fdb42fff,cheerful.desi,available,19.98,22.98,high,low,8,namecheap,,,12/08/2026 03:41
 6d999452-ff18-409c-aad2-d3b70b74c0c3,warm.desi,available,19.98,22.98,high,low,4,namecheap,,,21/09/2026 21:51
 a15d5648-cfcd-44e6-be30-dbaf4e7df2c1,imprint.desi,available,19.98,22.98,high,low,7,namecheap,,,29/09/2026 18:45
+7b27edcc-2cc6-49a6-9192-14ac0ee7f297,rampage.desi,available,19.98,22.98,high,low,7,namecheap,,,02/10/2026 06:10
 7fe22d65-41d9-4a47-8830-9d197c230f3e,toroidal.desi,available,19.98,22.98,medium,low,8,namecheap,,,11/09/2026 17:55
 ff98aaa8-c871-43cc-8ea8-87c18c354c0d,hex.desi,available,19.98,22.98,high,medium,3,namecheap,,,21/08/2026 07:35
 f73b0e23-8a22-4162-a9bc-979c798cc7f4,abnormally.desi,available,19.98,22.98,medium,low,10,namecheap,,,13/09/2026 16:24
@@ -366,6 +373,7 @@ c97f77b2-863f-40ca-8a95-4df600eb0573,merged.desi,available,19.98,22.98,high,low,
 c23669ee-f562-475f-82b5-b08a09588164,tolerably.desi,available,19.98,22.98,high,medium,9,namecheap,,,10/09/2026 12:56
 859acd2b-646d-4b43-8a7c-b4972cc921f7,finnish.desi,available,19.98,22.98,high,low,7,namecheap,,,18/08/2026 05:03
 51f42533-11af-464b-b08a-b88c368aec2f,percy.desi,available,19.98,22.98,high,low,5,namecheap,,,25/09/2026 06:59
+3d1bd30f-81d6-4d04-883d-29047d611134,mistletoe.desi,available,19.98,22.98,high,low,9,namecheap,,,02/10/2026 04:49
 6c5b1a20-3f5d-4d65-893a-3c06c81a9433,dyadic.desi,available,19.98,22.98,medium,low,6,namecheap,,,14/08/2026 21:52
 ba6cf3fd-37bc-4e38-9446-8b473be50122,chirpy.desi,available,19.98,22.98,high,low,6,namecheap,,,12/08/2026 06:03
 a17ab444-48b6-4e17-8627-444f9ac3b878,hamlet.desi,available,19.98,22.98,high,low,6,namecheap,,,28/09/2026 18:50
@@ -402,11 +410,13 @@ ec121a58-c787-487a-82ba-0099df08c789,watering.desi,available,19.98,22.98,high,lo
 21678907-f7d0-49e0-bd32-3a39762db878,aft.desi,available,19.98,22.98,high,low,3,namecheap,,,
 33cc18ab-ef61-44f2-8fd6-3c672ec1aecf,decorations.desi,available,19.98,22.98,medium,low,11,namecheap,,,28/09/2026 23:03
 71d0c5e0-9e0a-4d44-8a8a-97b2249ca9d0,closure.desi,available,19.98,22.98,high,low,7,namecheap,,,24/09/2026 15:56
-c9aa5a01-38ae-443b-a977-2d8c6a300267,myspace.desi,available,22.98,,high,medium,7,namecheap,,,
+c9aa5a01-38ae-443b-a977-2d8c6a300267,myspace.desi,available,19.98,22.98,high,medium,7,namecheap,,,02/10/2026 02:12
 1d439137-7b5d-490f-9c51-5f6ebfd8004b,hudson.desi,available,19.98,22.98,high,medium,6,namecheap,,,27/09/2026 04:25
 3cbe9416-5465-4c6d-936f-9fab0a4556e0,algin.desi,available,19.98,22.98,medium,low,5,namecheap,,,18/09/2026 07:04
 2e7dab8f-0e9e-4cc3-a3d2-be5715f55c5d,mister.desi,available,19.98,22.98,high,low,6,namecheap,,,30/09/2026 04:44
+0ce5e708-8608-4e0b-a0c8-4843a798a1ea,guideline.desi,available,19.98,22.98,high,low,9,namecheap,,,02/10/2026 05:07
 e2c1781c-d154-48d5-a3e1-7645835c7e5d,timothy.desi,available,19.98,22.98,high,low,7,namecheap,,,01/10/2026 02:30
+65bb0653-f0aa-4462-a1fb-7ef4d9e7df0c,teri.desi,available,19.98,22.98,medium,low,4,namecheap,,,02/10/2026 00:23
 04b7f350-771d-4e85-89e1-544fa97ed04a,aeolian.desi,available,19.98,22.98,medium,low,7,namecheap,,,
 c2f22512-d320-49cb-ab77-57be87d0760e,hirsch.desi,available,19.98,22.98,high,low,6,namecheap,,,27/09/2026 07:27
 63824468-b75c-4db2-9c01-886cc0e2b1d9,dances.desi,available,22.98,,high,low,6,namecheap,,,
@@ -435,7 +445,7 @@ b01a2e52-5b64-4ada-bad6-3abc5954d7ad,bended.desi,available,19.98,22.98,low,low,6
 3ff594e1-e014-4dda-b886-6ab4939e2b77,quits.desi,available,19.98,22.98,high,low,5,namecheap,,,09/09/2026 09:02
 de67042a-fe75-42be-96c7-4e8980c25b79,cropped.desi,available,19.98,22.98,high,low,7,namecheap,,,13/08/2026 07:53
 e71d534c-2b91-4a31-9565-e2f70c081b50,pathless.desi,available,19.98,22.98,medium,low,8,namecheap,,,08/09/2026 10:25
-4831e90b-a191-48c7-936e-5555dcc9eb95,passcode.desi,available,22.98,,high,low,8,namecheap,,,
+4831e90b-a191-48c7-936e-5555dcc9eb95,passcode.desi,available,19.98,22.98,high,low,8,namecheap,,,02/10/2026 03:23
 789f4cf7-d7a7-4849-bea7-3c6aacaa94e0,als.desi,available,19.98,22.98,high,low,3,namecheap,,,18/09/2026 14:14
 7f2ee661-d3e9-4fcf-8637-7a75ebef05b0,hedonistic.desi,available,19.98,22.98,medium,low,10,namecheap,,,21/08/2026 05:56
 7084104e-9d58-4650-9101-b3b291318839,acer.desi,available,19.98,22.98,high,low,4,namecheap,,,16/09/2026 23:32
@@ -455,6 +465,7 @@ f4958489-0bfa-4701-9e53-00e1d3182161,hospitable.desi,available,19.98,22.98,high,
 60a6e3e4-514d-4405-9cc7-03fbf3aa0ba6,sacked.desi,available,19.98,22.98,medium,low,6,namecheap,,,24/09/2026 06:49
 c375ffb5-9eb6-4fb1-bac1-a3c0d0786aab,popish.desi,available,19.98,22.98,medium,low,6,namecheap,,,05/09/2026 01:32
 fc97fff2-7030-479e-beca-d8961b020072,neaten.desi,available,19.98,22.98,medium,low,6,namecheap,,,11/09/2026 15:42
+51124dca-93a1-4e52-9c85-3af57174fe8a,fundraising.desi,available,19.98,22.98,high,low,12,namecheap,,,02/10/2026 01:51
 457e0fc0-3d5f-4c12-91f5-d3a2b19ba672,soothing.desi,available,19.98,22.98,high,low,8,namecheap,,,07/08/2026 07:40
 583eb2f4-026c-4fb7-b908-64da67a0ee83,plants.desi,available,22.98,,high,low,6,namecheap,,,
 9944e0c3-0b46-480e-ac0e-da236dfe21b2,brickly.desi,available,19.98,22.98,medium,low,7,namecheap,,,11/08/2026 03:51
@@ -492,7 +503,7 @@ c8d6c453-f2e2-4ed6-9f37-3bd4ff7e640d,mark.desi,available,19.98,22.98,high,medium
 1e22b826-4187-4a0e-906e-19df40ec4b9a,narrator.desi,available,19.98,22.98,high,low,8,namecheap,,,27/09/2026 04:49
 a40b02af-92bc-474d-af0b-451b80a04858,glasshouse.desi,available,19.98,22.98,high,low,10,namecheap,,,20/08/2026 19:52
 a79e79ce-1de4-4301-8323-82ef12a94c64,farmhouse.desi,available,19.98,22.98,high,low,9,namecheap,,,29/09/2026 12:14
-7dbb5d54-e798-41fe-a78e-c81d59556bb7,regarded.desi,available,22.98,,high,low,8,namecheap,,,
+7dbb5d54-e798-41fe-a78e-c81d59556bb7,regarded.desi,available,19.98,22.98,high,low,8,namecheap,,,01/10/2026 19:17
 b0231894-7073-4900-b0ce-2f9d3f6a07f1,negligent.desi,available,19.98,22.98,medium,low,9,namecheap,,,03/09/2026 15:07
 10bdfb27-3b18-4392-945b-e702163deeb0,fortunate.desi,available,19.98,22.98,high,low,9,namecheap,,,18/08/2026 12:47
 c5b433cd-13da-4746-9997-712bdbe7137c,fort.desi,available,19.98,22.98,high,low,4,namecheap,,,29/09/2026 19:57
@@ -577,6 +588,7 @@ ee44816b-f343-4b2e-a4c9-37e4351588b1,slant.desi,available,19.98,22.98,high,low,5
 7ce08317-45b1-4086-9ecc-aacac4b884f7,packed.desi,available,19.98,22.98,high,low,6,namecheap,,,25/09/2026 11:42
 4a489967-2b2f-4fa8-b404-052c9f3cc8da,waves.desi,available,19.98,22.98,high,low,5,namecheap,,,25/09/2026 16:36
 932be1d6-3696-4ad3-8d4d-7fdf198f8393,leroy.desi,available,19.98,22.98,medium,low,5,namecheap,,,25/09/2026 15:35
+1c96af19-83ba-4634-979c-efa52603aac6,scrambling.desi,available,19.98,22.98,medium,low,10,namecheap,,,01/10/2026 23:12
 c90c3440-cbd7-4c0d-8403-e02f09e211d7,banner.desi,available,19.98,22.98,high,low,6,namecheap,,,08/08/2026 13:53
 e16e499f-4c06-40a2-91bb-84ad8caaed85,aerobatics.desi,available,19.98,22.98,high,low,10,namecheap,,,17/09/2026 12:53
 35d47ff9-d323-4ea9-adad-480a0a515846,lucerne.desi,available,19.98,22.98,high,low,7,namecheap,,,18/09/2026 06:08
@@ -596,10 +608,12 @@ dd859873-1a5c-4355-9c21-2e6ea551c09d,diagnosed.desi,available,19.98,22.98,medium
 6cc46135-c2fc-45fb-9627-4ab58a8ecb05,plugs.desi,available,19.98,22.98,medium,low,5,namecheap,,,20/09/2026 11:28
 a0f38435-71d3-4d14-88df-87f3a6ca1b00,lowborn.desi,available,19.98,22.98,medium,low,7,namecheap,,,24/08/2026 10:44
 ae9245b1-0c96-4939-9a3f-3cd379af2a39,inboard.desi,available,19.98,22.98,medium,low,7,namecheap,,,22/08/2026 00:39
+08ddb933-0a61-4657-9494-2b60344f3abb,bfa.desi,available,19.98,22.98,high,low,3,namecheap,,,01/10/2026 06:12
 fe55cd21-bcd0-4fb4-93b4-ff44a5412f66,sooty.desi,available,19.98,22.98,medium,low,5,namecheap,,,12/08/2026 13:47
 166efeb3-1263-4b24-b593-fc2d30b17052,zhao.desi,available,19.98,22.98,high,low,4,namecheap,,,27/09/2026 20:53
 17106539-574f-4d54-aa23-fc0f693c2482,governing.desi,available,19.98,22.98,high,low,9,namecheap,,,20/08/2026 17:20
 c30801ad-ceac-43ca-85ef-3edfc3ed54f9,agility.desi,available,19.98,22.98,high,low,7,namecheap,,,17/09/2026 17:49
+72194975-61cb-4845-ad6d-67bc0a56793b,torque.desi,available,19.98,22.98,high,low,6,namecheap,,,01/10/2026 21:57
 df875493-6530-4ae0-9755-ba75e286a1fa,montpellier.desi,available,19.98,22.98,medium,low,11,namecheap,,,28/09/2026 21:53
 86ec87c0-e223-469a-9b53-f9abdc14fd68,pellucid.desi,available,19.98,22.98,high,low,8,namecheap,,,13/08/2026 09:44
 32024a63-3805-471a-9e37-0ce8a653bae2,gott.desi,available,19.98,22.98,medium,low,4,namecheap,,,30/09/2026 04:43
@@ -647,7 +661,9 @@ bab64941-bb34-4ba8-84a0-d85b21ecd8cc,banned.desi,available,19.98,22.98,medium,lo
 1286b543-d03f-49f0-a7ce-6091f23b6967,jose.desi,available,19.98,22.98,medium,low,4,namecheap,,,28/09/2026 11:51
 8173facd-de95-4037-b01d-6bb28a6f4f8f,rustic.desi,available,19.98,22.98,high,low,6,namecheap,,,
 3b95a48b-2a62-4d66-92c1-b0fc2d610900,cola.desi,available,19.98,22.98,high,low,4,namecheap,,,24/09/2026 16:17
+b4bd85b4-37c6-4a9d-affe-3ddfe49e7b95,nhtsa.desi,available,19.98,22.98,medium,low,5,namecheap,,,01/10/2026 07:59
 503873a4-dee1-4868-9f6f-6a7f0e2b4e31,objects.desi,available,22.98,,medium,low,7,namecheap,,,
+87a1fb56-0f4e-4918-8d69-a31597d4b3c5,wicklow.desi,available,19.98,22.98,medium,low,7,namecheap,,,01/10/2026 23:14
 26f24a08-45b6-4f6f-9537-8e3f5d28ccf5,implication.desi,available,19.98,22.98,high,low,11,namecheap,,,29/09/2026 22:52
 cf294d10-a39f-44dd-ada7-79d18167b1df,instagrammable.desi,available,22.98,,medium,low,14,namecheap,,,
 fb9637e4-36f5-4c2f-b9ef-807f0066a8fd,ominous.desi,available,19.98,22.98,medium,low,7,namecheap,,,24/08/2026 20:00
@@ -659,6 +675,7 @@ fb9637e4-36f5-4c2f-b9ef-807f0066a8fd,ominous.desi,available,19.98,22.98,medium,l
 b59e566a-d31d-43d5-ba45-7b90a4f6367e,directed.desi,available,19.98,22.98,high,low,8,namecheap,,,24/09/2026 10:49
 242c4f11-0987-4fd2-a02d-5384059c33ba,pare.desi,available,19.98,22.98,high,low,4,namecheap,,,11/09/2026 20:00
 bcbf3610-2ee7-4514-96a2-69540488267d,blanc.desi,available,19.98,22.98,high,low,5,namecheap,,,24/09/2026 03:47
+ce231bf8-320e-4b93-b36c-3bf4a638ed25,changsha.desi,available,19.98,22.98,medium,low,8,namecheap,,,02/10/2026 00:31
 35645be1-2281-4604-b8b3-923dc4da205d,compound.desi,available,19.98,22.98,high,low,8,namecheap,,,23/09/2026 17:56
 1ea63da3-8e2d-435b-8fd6-7d48bfa06cca,belarusian.desi,available,19.98,22.98,medium,low,10,namecheap,,,09/08/2026 12:32
 5c6c57ac-1b08-4976-9de5-f36a6a0f65a8,rgb.desi,available,22.98,,high,low,3,namecheap,,,
@@ -739,6 +756,7 @@ a5d65d16-d02d-4472-ad29-49696c6d3136,honestly.desi,available,19.98,22.98,high,lo
 b5b40ee7-fa26-4a6b-988f-9a23ee5e3178,vie.desi,available,19.98,22.98,high,low,3,namecheap,,,30/09/2026 17:35
 f4cc3e6d-093f-4e10-b82e-27ba94ad5e7d,slap.desi,available,19.98,22.98,high,low,4,namecheap,,,13/09/2026 23:26
 657c6e06-7794-4fc2-8697-bc5f2216f0c6,pigweed.desi,available,19.98,22.98,medium,low,7,namecheap,,,18/09/2026 15:54
+55821b2c-bc88-45f0-ba5f-8514db9a3de0,resin.desi,available,19.98,22.98,high,low,5,namecheap,,,01/10/2026 21:32
 1eae2348-beeb-4770-895b-2529e9a541b6,flowerbed.desi,available,19.98,22.98,high,low,9,namecheap,,,22/09/2026 22:58
 c45cafc2-7d93-4926-a482-cfd7ee946ca6,bollard.desi,available,19.98,22.98,medium,low,7,namecheap,,,23/09/2026 22:48
 5ceafb07-91b6-49b2-a57f-149d2bfb0ac1,habit.desi,available,19.98,22.98,high,low,5,namecheap,,,25/09/2026 05:00
@@ -779,7 +797,6 @@ b8134390-5d36-4b80-9528-6b7d4e048cc8,perez.desi,available,19.98,22.98,high,low,5
 fd60c942-b55f-4e5d-904b-022e33c3db6c,vindicator.desi,available,19.98,22.98,medium,low,10,namecheap,,,19/09/2026 18:48
 8bea00c6-99ee-441e-959b-985873cf48d6,vigilantly.desi,available,19.98,22.98,medium,low,10,namecheap,,,16/09/2026 10:54
 4f2a5f7e-040c-4e2c-8612-bb6b97d783cc,asura.desi,available,19.98,22.98,medium,low,5,namecheap,,,20/09/2026 18:26
-ca917064-af22-4d6e-bb3e-e7fc143f30e1,time.desi,available,19.98,22.98,high,medium,4,namecheap,,,28/09/2026 12:16
 f7471821-fa8c-42cf-bc17-1a1e95504760,alcahest.desi,available,19.98,22.98,medium,low,8,namecheap,,,18/09/2026 03:43
 28e681e4-641e-4414-ad37-3b182e850782,abutter.desi,available,19.98,22.98,medium,low,7,namecheap,,,16/09/2026 19:36
 57d00447-2d2e-4bad-8b7a-bca1a4ffd448,aniline.desi,available,19.98,22.98,medium,low,7,namecheap,,,18/09/2026 21:45
@@ -787,10 +804,10 @@ a2a00454-8be3-4f72-b7bb-fd4e4caa1397,blasphemer.desi,available,19.98,22.98,mediu
 a5e8683c-70bf-472e-aa9f-7bf647571104,obsequious.desi,available,19.98,22.98,medium,low,10,namecheap,,,10/08/2026 19:44
 9cc58728-2701-4e8c-92d0-1105aa709e9e,adamance.desi,available,19.98,22.98,medium,low,8,namecheap,,,17/09/2026 06:15
 d3db738e-6af5-47f8-916a-5454c0026f89,naseby.desi,available,19.98,22.98,medium,low,6,namecheap,,,22/09/2026 15:31
+fb8e6a26-bc10-47ac-8111-37733b47e364,gerrard.desi,available,19.98,22.98,medium,low,7,namecheap,,,01/10/2026 10:05
 99a11d11-c05a-41b9-b659-9e3530115e7c,firing.desi,available,19.98,22.98,high,low,6,namecheap,,,27/09/2026 03:58
 adc98f2c-e312-4620-b6ad-a7bfac9bc5cf,homeless.desi,available,19.98,22.98,high,low,8,namecheap,,,14/08/2026 12:07
 83fed8a0-221b-4d14-acf3-ef26daa76c9f,paradise.desi,available,19.98,22.98,high,low,8,namecheap,,,25/09/2026 22:31
-c4ac7aa5-ce78-4d71-b05f-c943f3e8ddc5,capsule.desi,available,19.98,22.98,high,low,7,namecheap,,,28/09/2026 05:53
 6d17a044-48d6-42fa-86e8-b7517fdae178,abeyance.desi,available,19.98,22.98,medium,low,8,namecheap,,,16/09/2026 15:20
 c54f1ef2-d3da-4c1d-b370-d6c027da5ad3,barometer.desi,available,19.98,22.98,high,low,9,namecheap,,,22/09/2026 07:00
 2bb8e8da-1ca8-4ce7-b654-3899c0dd249e,arboreal.desi,available,19.98,22.98,high,low,8,namecheap,,,06/08/2026 13:18
@@ -813,7 +830,7 @@ b9b4963c-94c4-4b50-bd22-e6c72b845902,covid.desi,available,22.98,,high,low,5,name
 acc9b005-b966-4390-888d-cb02bcf532be,review.desi,available,19.98,22.98,high,medium,6,namecheap,,,29/09/2026 04:52
 0b0247f0-16cd-4496-98ca-3a83836f6682,wines.desi,available,19.98,22.98,high,low,5,namecheap,,,18/09/2026 10:23
 f9272155-2c4d-4b90-b6e0-333d6dcd37e8,inventor.desi,available,19.98,22.98,high,low,8,namecheap,,,20/09/2026 11:36
-0cce5374-1027-49da-a69b-be5c4cdd9f8c,ing.desi,available,22.98,,high,low,3,namecheap,,,
+0cce5374-1027-49da-a69b-be5c4cdd9f8c,ing.desi,available,19.98,22.98,high,low,3,namecheap,,,02/10/2026 01:10
 1069b271-b7af-4798-b3f7-1d5feba893cb,liberate.desi,available,19.98,22.98,high,low,8,namecheap,,,18/08/2026 14:32
 e1f2f40d-ed46-4a63-bee4-7ebb4db77f1b,greyed.desi,available,19.98,22.98,medium,low,6,namecheap,,,20/08/2026 20:04
 d93edb6c-2a28-444a-87eb-25c3c4bcfe21,botched.desi,available,19.98,22.98,medium,low,7,namecheap,,,10/08/2026 20:51
@@ -854,6 +871,7 @@ ed259d8e-d1fd-4bc5-a917-291b72b96c25,harsh.desi,available,19.98,22.98,medium,low
 f87f8249-7d66-45eb-a0d5-8fc60cb408d4,someway.desi,available,19.98,22.98,medium,low,7,namecheap,,,15/09/2026 06:46
 de4e04d1-aaf6-4349-884d-5e4da83c7d99,roar.desi,available,19.98,22.98,high,low,4,namecheap,,,27/09/2026 15:38
 4bd0108f-c291-480a-89d9-feeca1ea819a,dough.desi,available,19.98,22.98,high,low,5,namecheap,,,08/09/2026 03:53
+391e9933-40cc-4d03-acd0-d8775d752674,kirov.desi,available,19.98,22.98,high,low,5,namecheap,,,02/10/2026 00:27
 fd7433f7-75e8-4ad1-a10b-1f0871bec7c9,apples.desi,available,19.98,22.98,high,low,6,namecheap,,,18/09/2026 14:01
 17a55e48-f68c-4482-9d95-ef5611c03c2e,otis.desi,available,19.98,22.98,high,low,4,namecheap,,,25/09/2026 05:28
 de62030e-d295-4cb1-9ecb-1329b6d9e624,left.desi,available,19.98,22.98,high,low,4,namecheap,,,25/09/2026 13:25
@@ -871,10 +889,13 @@ d0bc879c-d8ec-48d8-9611-5eae479b0ba1,piggish.desi,available,19.98,22.98,medium,l
 9c09760f-3db8-4513-bf02-11234d20bf96,arbalist.desi,available,19.98,22.98,medium,low,8,namecheap,,,20/09/2026 00:35
 fb7ae28e-4ad2-4eb2-aba1-29d0f012ba21,faceless.desi,available,19.98,22.98,medium,low,8,namecheap,,,17/08/2026 20:22
 b7409c9d-8832-4461-a89b-8af92ac1d6ac,experience.desi,available,19.98,22.98,high,medium,10,namecheap,,,29/09/2026 18:39
+a59eaf85-790e-4f99-829c-e527ebb5685f,cubicle.desi,available,19.98,22.98,high,low,7,namecheap,,,02/10/2026 04:18
 448dc41a-ae60-4f6c-9805-fd1181bcf306,turk.desi,available,19.98,22.98,high,low,4,namecheap,,,29/09/2026 08:16
 4eb1a404-4316-4902-9006-7f8c5e23c82d,wreck.desi,available,19.98,22.98,high,low,5,namecheap,,,27/09/2026 05:55
 a94b4552-8701-4d2a-928f-a305d9dfcef6,dysprosium.desi,available,19.98,22.98,medium,low,10,namecheap,,,20/09/2026 23:28
 e233d881-a6d0-4e33-96af-44f009d4d673,only.desi,available,19.98,22.98,high,medium,4,namecheap,,,22/09/2026 02:00
+6e6a1a9f-f9c0-4c64-b797-35f4ff9950f8,innovator.desi,available,19.98,22.98,high,low,9,namecheap,,,02/10/2026 05:45
+fa269bb4-52e5-4694-83e4-5cedb44bf6df,genes.desi,available,19.98,22.98,medium,low,5,namecheap,,,01/10/2026 17:20
 7598d57f-a53c-4229-8b10-b0f1118d7f85,home.desi,available,19.98,22.98,high,medium,4,namecheap,,,24/09/2026 23:55
 7a221c98-6d10-406d-babd-c9c4ec9cd2ad,petallike.desi,available,19.98,22.98,medium,low,9,namecheap,,,08/09/2026 18:13
 bc61b1d8-6f1b-45a0-9164-c727ee86da3c,proscribed.desi,available,19.98,22.98,medium,low,10,namecheap,,,18/08/2026 11:01
@@ -889,6 +910,7 @@ ceff9d04-bbc0-4a64-872f-23ef626e17e7,angled.desi,available,19.98,22.98,medium,lo
 8a814ad0-2928-44df-9461-6f058ef5c759,podlike.desi,available,19.98,22.98,medium,low,7,namecheap,,,08/09/2026 22:31
 1a5133d1-cac8-440a-b7cf-d9e3927e2861,mourning.desi,available,19.98,22.98,medium,low,8,namecheap,,,25/08/2026 08:38
 ef8c937d-d539-486a-9876-7fb00769cd03,bandy.desi,available,19.98,22.98,medium,low,5,namecheap,,,08/08/2026 11:45
+d867f3ba-1926-458e-b0fb-0e71ae314eb4,ntsc.desi,available,19.98,22.98,high,low,4,namecheap,,,01/10/2026 15:18
 56f1f140-ca73-4f4c-baeb-af93f2a223a3,plaster.desi,available,19.98,22.98,medium,low,7,namecheap,,,17/09/2026 07:59
 137d0486-58e2-4ad1-8f03-0a8175365741,viciously.desi,available,19.98,22.98,medium,low,9,namecheap,,,14/09/2026 01:35
 7a60df40-028e-4c81-ba2f-be58a7dc0747,alga.desi,available,19.98,22.98,high,low,4,namecheap,,,18/09/2026 06:47
@@ -936,6 +958,7 @@ dd51ecd8-a7da-409c-9b7b-6233cf756d8f,trump.desi,available,19.98,22.98,high,mediu
 37914cef-923a-4c6b-be0b-042d0c1a7631,darkness.desi,available,,,high,low,8,,,,13/08/2026 17:53
 869318b3-247b-425d-8261-26eea6a3ae8e,apsidal.desi,available,19.98,22.98,medium,low,7,namecheap,,,06/08/2026 10:18
 2ef53a16-9b16-4386-baf4-15d97abcf94c,ranch.desi,available,19.98,22.98,high,low,5,namecheap,,,25/09/2026 22:09
+2daa2169-a173-4c29-9494-40c4669f27b1,emperors.desi,available,19.98,22.98,medium,low,8,namecheap,,,02/10/2026 03:23
 aca080e6-b84f-40c7-9441-de1995dff664,quash.desi,available,19.98,22.98,medium,low,5,namecheap,,,13/09/2026 06:42
 519c2751-2af4-4f65-8e07-2ee958180f67,algonkin.desi,available,19.98,22.98,high,low,8,namecheap,,,
 81bcfab3-d341-4828-a6e6-d41bcc0db07c,uncaring.desi,available,19.98,22.98,medium,low,8,namecheap,,,12/09/2026 00:02
@@ -943,7 +966,7 @@ aca080e6-b84f-40c7-9441-de1995dff664,quash.desi,available,19.98,22.98,medium,low
 9420c9cf-e0e5-41e1-b06e-40acbb5e05df,carte.desi,available,19.98,22.98,high,low,5,namecheap,,,23/09/2026 16:04
 1dfec3c7-35d6-42e6-be0a-aba18ec054b4,straw.desi,available,19.98,22.98,high,low,5,namecheap,,,10/09/2026 22:03
 efb26181-077e-4047-84ce-994563abeba0,ambulance.desi,available,19.98,22.98,high,low,9,namecheap,,,18/09/2026 17:28
-986e1cad-b196-4c74-bae9-cc6d0d8cde08,occurring.desi,available,22.98,,high,low,9,namecheap,,,
+986e1cad-b196-4c74-bae9-cc6d0d8cde08,occurring.desi,available,19.98,22.98,high,low,9,namecheap,,,01/10/2026 19:44
 fc0141fe-c781-4524-9398-c71aec04430b,ooze.desi,available,19.98,22.98,high,low,4,namecheap,,,04/09/2026 15:40
 c2161b93-0c5f-44e0-8545-c1afebc57682,plebeian.desi,available,19.98,22.98,high,low,8,namecheap,,,08/09/2026 21:00
 5adea4f3-80b9-464f-a7e7-2312bba41294,pro.desi,available,19.98,22.98,high,medium,3,namecheap,,,09/09/2026 02:20
@@ -954,8 +977,10 @@ b9298b1f-5e8f-4d83-9644-0141dc79be5e,meuse.desi,available,19.98,22.98,medium,low
 af924278-5b67-4768-ac7a-9641af109731,biotic.desi,available,19.98,22.98,high,low,6,namecheap,,,10/08/2026 03:14
 e8d6f98c-ade1-4d75-b748-2d6a1526532f,irritable.desi,available,19.98,22.98,medium,low,9,namecheap,,,25/09/2026 11:30
 c6c3d269-b927-4311-be10-dd84cd9916a2,architect.desi,available,19.98,22.98,high,low,9,namecheap,,,20/09/2026 02:11
+53edf660-bd1e-47a8-9fde-2c5dab681238,kira.desi,available,19.98,22.98,high,low,4,namecheap,,,01/10/2026 06:42
 92979a94-0c8e-4dae-9c4f-38650b487c1f,sergey.desi,available,19.98,22.98,medium,low,6,namecheap,,,29/09/2026 04:18
 5383c65b-a7bd-4403-8759-27c503c22b23,wrecking.desi,available,19.98,22.98,medium,low,8,namecheap,,,29/09/2026 19:31
+644b0c71-9f7a-4b7e-8438-344d0e49d2e7,greenock.desi,available,19.98,22.98,medium,low,8,namecheap,,,02/10/2026 01:03
 8774927e-d09a-445a-9b55-c462ab819410,supposable.desi,available,19.98,22.98,high,medium,10,namecheap,,,09/09/2026 01:46
 405fc388-b1de-4504-8e1e-bcec056da1b9,sphincter.desi,available,19.98,22.98,medium,low,9,namecheap,,,19/09/2026 03:31
 b6cdc75f-f05a-4bb9-bfba-e6863be58d74,iodin.desi,available,19.98,22.98,medium,low,5,namecheap,,,21/08/2026 17:26
@@ -968,34 +993,9 @@ c3493320-9aca-41db-8505-f1b5b7bb6496,kenneth.desi,available,19.98,22.98,high,low
 9572d175-6b41-4217-a7e4-cbd93401327e,nightingale.desi,available,19.98,22.98,high,low,11,namecheap,,,30/09/2026 03:17
 b48f9656-9310-41b7-9adb-1f0f1ec2f5bf,hanna.desi,available,19.98,22.98,high,low,5,namecheap,,,28/09/2026 07:49
 1cb61c08-36d5-413f-aa05-4ddb9e7d8ae3,distinctly.desi,available,19.98,22.98,high,low,10,namecheap,,,14/09/2026 13:19
+5b7c3a8d-0b5f-4c37-b2e7-d20ae95a1b00,lakers.desi,available,19.98,22.98,high,medium,6,namecheap,,,02/10/2026 01:56
 743acbd5-561f-4536-a1a5-4d136dd99590,multiplication.desi,available,22.98,,medium,low,14,namecheap,,,
 ec38d181-958d-487d-bd0a-c696161e8dfa,insignia.desi,available,19.98,22.98,high,low,8,namecheap,,,30/09/2026 17:42
 7c2a7213-f27e-4a9e-a645-fa49c6e3cc55,lowly.desi,available,19.98,22.98,medium,low,5,namecheap,,,08/08/2026 21:38
 fe7b06a7-ec30-4b10-8fef-7627c456a001,byers.desi,available,19.98,22.98,medium,low,5,namecheap,,,29/09/2026 09:57
 06159f8c-4bb0-4710-bb7f-51c0e716fa36,princely.desi,available,19.98,22.98,high,low,8,namecheap,,,14/08/2026 01:00
-916af35b-8a6d-41cc-832a-7df8fd666a98,argali.desi,available,19.98,22.98,medium,low,6,namecheap,,,20/09/2026 04:09
-dc598274-66f8-48c5-9b62-f2f35971f56c,profoundly.desi,available,19.98,22.98,high,low,10,namecheap,,,14/09/2026 11:16
-9b80bb0a-7b59-4814-9cb3-1cd82efd8048,daring.desi,available,19.98,22.98,high,low,6,namecheap,,,07/08/2026 21:39
-4000f525-ee49-48de-8898-ff5c09669cf3,disciple.desi,available,19.98,22.98,high,low,8,namecheap,,,
-56094988-b3fe-479e-9127-67692b94fe3e,pliability.desi,available,19.98,22.98,medium,low,10,namecheap,,,23/09/2026 07:42
-b6d6bb47-a498-4aee-983c-96716632886f,apocrypha.desi,available,19.98,22.98,medium,low,9,namecheap,,,19/09/2026 18:13
-16b595c4-786a-41b9-aa32-5c51c200b437,skyway.desi,available,19.98,22.98,high,low,6,namecheap,,,17/09/2026 22:32
-9ac21158-eafb-4b81-83a9-ab3fc04917b5,affiant.desi,available,19.98,22.98,medium,low,7,namecheap,,,17/09/2026 14:22
-93ada413-5390-4901-a673-30e76fad321a,oftentimes.desi,available,19.98,22.98,medium,low,10,namecheap,,,14/09/2026 20:04
-020af885-ccbb-46d1-a8d6-a76fdf812114,motile.desi,available,19.98,22.98,medium,low,6,namecheap,,,25/08/2026 07:18
-cb958303-7cbb-42d4-8d48-5d389cbff556,axenic.desi,available,19.98,22.98,high,low,6,namecheap,,,08/08/2026 01:51
-81f60093-176f-4aba-b408-3edf9c7544f9,toll.desi,available,19.98,22.98,high,medium,4,namecheap,,,30/09/2026 13:21
-ab7574ba-a571-4f1d-8e70-8ce06f045139,criticism.desi,available,19.98,22.98,high,low,9,namecheap,,,29/09/2026 12:07
-ed75a079-9263-4505-bba3-a5c934b29985,mongolian.desi,available,19.98,22.98,high,low,9,namecheap,,,25/08/2026 04:47
-19108a0e-f9b6-488d-817c-9d7616450da4,omissive.desi,available,19.98,22.98,medium,low,8,namecheap,,,04/09/2026 02:28
-7f21f837-d996-40b4-86b2-8f51d22ff0ef,hawaiian.desi,available,19.98,22.98,high,low,8,namecheap,,,21/08/2026 01:36
-5087a335-337d-4553-a7f4-4e2cd63a5e6a,liege.desi,available,19.98,22.98,medium,low,5,namecheap,,,18/08/2026 03:03
-d4d7c3ed-f1af-47c9-bef3-9c7098c6d7f1,elba.desi,available,19.98,22.98,medium,low,4,namecheap,,,30/09/2026 13:35
-bbe2d911-bbe9-467e-8fd2-db2531f09ce9,prattle.desi,available,19.98,22.98,medium,low,7,namecheap,,,23/09/2026 23:32
-2dbb6c95-2772-488e-ba80-41fca15f21a9,world.desi,available,19.98,22.98,high,medium,5,namecheap,,,27/09/2026 08:03
-dc200e6a-48a9-40e4-98af-458ece0ccf55,aerophile.desi,available,19.98,22.98,medium,low,9,namecheap,,,17/09/2026 13:12
-658ad78a-36f8-4220-8138-fc65514e4add,photocopying.desi,available,19.98,22.98,medium,low,12,namecheap,,,20/09/2026 03:35
-0afe0573-ef58-41f8-836d-53bc5c2224a5,unoccupied.desi,available,19.98,22.98,medium,low,10,namecheap,,,12/09/2026 16:09
-6e2c12c3-e4a4-437f-91cb-b298ca0d18cd,oft.desi,available,19.98,22.98,high,low,3,namecheap,,,14/09/2026 20:06
-60d116b0-dc51-4cfa-ad38-230bfcdcf14a,neolithic.desi,available,19.98,22.98,medium,low,9,namecheap,,,03/09/2026 15:25
-52b8841e-69c1-4a14-8e02-c2a54c7b3058,comfortable.desi,available,,,high,low,11,,,,26/09/2026 00:46
